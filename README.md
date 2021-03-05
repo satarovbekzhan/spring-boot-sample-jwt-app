@@ -1,4 +1,4 @@
-# 🅂🄾🄾🄳🄰
+# SOODA
 
 > is a simple Spring Boot Rest Application created 
 > for study purposes. It uses **H2** in memory database
