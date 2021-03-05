@@ -1,5 +1,14 @@
-# SOODA
-> is a simple Spring Boot Rest Application
+#┏━━┳━┳━┳━━┳━━┓ ┃━━┫┃┃┃┣┓┓┃┏┓┃ ┣━━┃┃┃┃┣┻┛┃┣┫┃ ┗━━┻━┻━┻━━┻┛┗┛
+
+
+> is a simple Spring Boot Rest Application created 
+> for study purposes. It uses **H2** in memory database
+> to reduce the complexity of initial launch and 
+> testing. Java Persistence API **(Hibernate)** makes
+> this application comfortable to easily access all
+> data from a database. Authentication logic implemented
+> by using **Spring Security** and **[JJWT](https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt)**.
+
 
 ### Endpoints
 
