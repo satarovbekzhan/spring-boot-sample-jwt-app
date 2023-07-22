@@ -1,4 +1,4 @@
-# SOODA
+# Sample Spring Boot JWT App
 
 > is a simple Spring Boot Rest Application created 
 > for study purposes. It uses **H2** in memory database
